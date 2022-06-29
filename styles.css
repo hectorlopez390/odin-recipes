@@ -1,0 +1,12 @@
+body {
+    background-color: aquamarine;
+}
+
+img {
+    height: 300px;
+    width: auto;
+}
+
+h1, h2, h3, a {
+    font-family: "Papyrus", Georgia;
+}
